@@ -1,0 +1,13 @@
+# Questa generated libraries and simulation results
+sim/questa/libraries/
+sim/questa/runs/
+sim/questa/modelsim.ini
+
+# Common simulator-generated files
+transcript
+*.wlf
+*.ucdb
+*.log
+
+# Keep the archived tutorial transcript as reference material.
+!archive/legacy_clk_gen/results/transcript

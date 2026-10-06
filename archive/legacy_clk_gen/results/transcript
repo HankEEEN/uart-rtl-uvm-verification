@@ -1,0 +1,8 @@
+# vsim -c -lib C:\Users\ZIHAN\AppData\Local\Temp\uart_clk_gen_uvm_work uart_clk_gen_tb -do "run -all; quit -f" 
+# Start time: 15:31:06 on Sep 21,2026
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: (vopt-2253) No module name found in command-line argument "C:\Users\ZIHAN\AppData\Local\Temp\uart_clk_gen_uvm_work.uart_clk_gen_tb"
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=1, Warnings=0.
+# Error loading design
+# End time: 15:31:07 on Sep 21,2026, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0
